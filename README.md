@@ -20,7 +20,7 @@
 ```bash
 $ whoami
 
-Sistem Mühendisi
+7root
 
 • Reverse Engineering .NET & Native
 • Java, Ruby Dev
