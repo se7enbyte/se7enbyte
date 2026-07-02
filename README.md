@@ -2,7 +2,7 @@
 
 # se7enbyte
 
-### Sistem Mühendisi • Reverser • Linux Kullanıcısı
+### System Architect • Reverser • Network Security
 
 <br>
 
@@ -22,10 +22,10 @@ $ whoami
 
 Sistem Mühendisi
 
-• Tersine Mühendislik
-• Linux Sistemleri
-• Ağ Güvenliği
-• Sistem Mimarisi
+• Reverse Engineering .NET & Native
+• Java, Ruby Dev
+• Network Security
+• Designer ???
 ```
 
 ---
@@ -33,11 +33,9 @@ Sistem Mühendisi
 ## Çalışma Alanlarım
 
 ```text
-▸ Reverse Engineering
-▸ Linux Internals
-▸ Network Security
+▸ Big Data
+▸ Linux / Unix OS
 ▸ System Architecture
-▸ Backend Development
 ▸ Mobile Development
 ```
 
@@ -67,6 +65,10 @@ Sistem Mühendisi
 
 <div align="center">
 
-> *"Kod yazmaktan çok, sistemleri anlamayı seviyorum."*
+> *"İnsan unsuru aslında güvenliğin en zayıf halkasıdır.
+>Aldatma Sanatı
+Kevin Mitnick
+> "* 
+
 
 </div>
