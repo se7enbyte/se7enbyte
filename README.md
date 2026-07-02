@@ -1,89 +1,72 @@
 <div align="center">
 
-# ka0ruhanayama
+# se7enbyte
 
-```text
-System Engineer
-Reverse Engineer
-Linux Enthusiast
-```
+### Sistem Mühendisi • Reverser • Linux Kullanıcısı
+
+<br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,cs,java,dart,flutter,nodejs,git,docker,firebase,vscode,visualstudio,idea,ps" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,linux,mint,java,git,docker,firebase,ps,ae" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=rive" height="48"/>
 </p>
 
 </div>
 
 ---
 
-## About
+## Hakkımda
 
 ```bash
 $ whoami
 
-System Engineer
+Sistem Mühendisi
 
-Specializations
-├── Linux Systems
-├── Reverse Engineering
-├── Network Security
-├── Backend Development
-└── Mobile Development
+• Tersine Mühendislik
+• Linux Sistemleri
+• Ağ Güvenliği
+• Sistem Mimarisi
 ```
 
 ---
 
-## GitHub
+## Çalışma Alanlarım
+
+```text
+▸ Reverse Engineering
+▸ Linux Internals
+▸ Network Security
+▸ System Architecture
+▸ Backend Development
+▸ Mobile Development
+```
+
+---
+
+## GitHub İstatistikleri
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=se7enbyte&theme=github_dark&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=se7enbyte&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=se7enbyte&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## Tech
+## Araçlar
 
-```text
-Operating Systems
-├── Linux
-└── Windows
-
-Security
-├── Reverse Engineering
-├── Binary Analysis
-└── Network Security
-
-Development
-├── Backend
-├── Mobile
-└── System Architecture
-```
-
----
-
-## Interests
-
-```text
-Linux Internals
-Operating Systems
-Computer Networks
-Low-Level Programming
-Reverse Engineering
-Binary Analysis
-Distributed Systems
-Performance Optimization
-```
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,github,figma" />
+</p>
 
 ---
 
 <div align="center">
 
-*"Programs must be written for people to read."*
+> *"Kod yazmaktan çok, sistemleri anlamayı seviyorum."*
 
 </div>
