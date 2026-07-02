@@ -1,8 +1,8 @@
 <div align="center">
 
-# se7enbyte
+# >_ se7enbyte
 
-### System Architect • Reverser • Network Security
+### 🐧 System Architect • ⚙️ Reverser • 🛡️ Network Security 
 
 <br>
 
@@ -15,7 +15,7 @@
 
 ---
 
-## Hakkımda
+## Hakkımda 🧩
 
 ```bash
 $ whoami
@@ -30,7 +30,7 @@ Sistem Mühendisi
 
 ---
 
-## Çalışma Alanlarım
+## Çalışma Alanlarım 🖥️
 
 ```text
 ▸ Big Data
@@ -41,13 +41,9 @@ Sistem Mühendisi
 
 ---
 
-## GitHub İstatistikleri
+## GitHub İstatistikleri 🌌
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=se7enbyte&theme=github_dark&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=se7enbyte&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=se7enbyte&theme=github-dark&hide_border=true"/>
@@ -55,9 +51,10 @@ Sistem Mühendisi
 
 ---
 
-## Araçlar
+## Araçlar 🔬
 
-<p>
+<p align="center">
+  
 <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,github,figma" />
 </p>
 
@@ -65,10 +62,9 @@ Sistem Mühendisi
 
 <div align="center">
 
-> *"İnsan unsuru aslında güvenliğin en zayıf halkasıdır.
->Aldatma Sanatı
-Kevin Mitnick
-> "* 
+> *"İnsan unsuru aslında güvenliğin en zayıf halkasıdır."*
+> <br>
+> -Kevin Mitnick
 
 
 </div>
