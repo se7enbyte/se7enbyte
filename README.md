@@ -1,91 +1,89 @@
 <div align="center">
 
-# Merhaba, ben `USERNAME`
+# ka0ruhanayama
 
-### Sistem Mühendisi • Reverser • Linux & Network Security
+```text
+System Engineer
+Reverse Engineer
+Linux Enthusiast
+```
 
-Düşük seviye sistemler, ağ güvenliği, tersine mühendislik ve temiz yazılım mimarileri üzerine çalışıyorum.
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,cs,java,dart,flutter,nodejs,git,docker,firebase,vscode,visualstudio,idea,ps" />
+</p>
 
 </div>
 
 ---
 
-## Hakkımda
+## About
 
-Sistem mühendisliği, Linux altyapıları, ağ güvenliği ve tersine mühendislik alanlarına odaklanıyorum.  
-Kod yazarken okunabilirlik, sürdürülebilirlik ve sistem seviyesinde kontrol benim için önceliklidir.
+```bash
+$ whoami
 
-- Linux sistemleri ve servis yönetimi
-- Network güvenliği ve ağ mimarisi
-- Reverse engineering ve binary analizi
-- Backend geliştirme
-- Mobil uygulama geliştirme
-- UI / UX tarafında temiz ve sade arayüzler
+System Engineer
 
----
-
-## Teknik Alanlar
-
-```txt
-Linux              █████████░  90%
-Network Security   ████████░░  80%
-Reverse Engineering ████████░░  80%
-Backend            ███████░░░  70%
-Flutter / Mobile   ███████░░░  70%
-UI / UX            ██████░░░░  60%
+Specializations
+├── Linux Systems
+├── Reverse Engineering
+├── Network Security
+├── Backend Development
+└── Mobile Development
 ```
 
 ---
 
-## Kullandığım Teknolojiler
+## GitHub
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github,flutter,dart,firebase,js,nodejs,cs,java,py,figma,ps" />
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-## İlgi Alanlarım
+## Tech
 
-```txt
-> system engineering
-> linux internals
-> network security
-> reverse engineering
-> binary analysis
-> backend architecture
-> mobile development
-> automation
+```text
+Operating Systems
+├── Linux
+└── Windows
+
+Security
+├── Reverse Engineering
+├── Binary Analysis
+└── Network Security
+
+Development
+├── Backend
+├── Mobile
+└── System Architecture
 ```
 
 ---
 
-## GitHub Metrikleri
+## Interests
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-## Çalışma Tarzım
-
-```txt
-clean code > clever code
-security first
-readable architecture
-minimal dependencies
-documented decisions
+```text
+Linux Internals
+Operating Systems
+Computer Networks
+Low-Level Programming
+Reverse Engineering
+Binary Analysis
+Distributed Systems
+Performance Optimization
 ```
 
 ---
 
 <div align="center">
 
-### Linux • Security • Reverse Engineering • Systems
+*"Programs must be written for people to read."*
 
 </div>
