@@ -5,7 +5,11 @@
 ### 🐧 System Architect • ⚙️ Reverser • 🛡️ Network Security
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,linux,mint,java,git,docker,firebase,ps,ae,pr" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,linux,mint,java" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,firebase,ps,ae,pr" />
 </p>
 
 </div>
