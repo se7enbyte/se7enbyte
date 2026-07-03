@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,linux,mint,java,git,docker,firebase,ps,ae,pr" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=rive" height="48" />
 </p>
 
 </div>
