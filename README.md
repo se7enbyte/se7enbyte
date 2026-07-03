@@ -2,13 +2,11 @@
 
 # >_ se7enbyte
 
-### 🐧 System Architect • ⚙️ Reverser • 🛡️ Network Security 
+### 🐧 System Architect • ⚙️ Reverser • 🛡️ Network Security
 
-<br>
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,linux,mint,java,git,docker,firebase,ps,ae,pr" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=rive" height="48"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,linux,mint,java,git,docker,firebase,ps,ae,pr" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=rive" height="48" />
 </p>
 
 </div>
@@ -23,9 +21,9 @@ $ whoami
 7root
 
 • Reverse Engineering .NET & Native
-• Java, Ruby Dev
+• Java, Ruby Development
 • Network Security
-• Designer ???
+• UI / UX Design
 ```
 
 ---
@@ -34,7 +32,7 @@ $ whoami
 
 ```text
 ▸ Big Data
-▸ Linux / Unix OS
+▸ Linux / Unix
 ▸ System Architecture
 ▸ Mobile Development
 ```
@@ -44,9 +42,7 @@ $ whoami
 ## GitHub İstatistikleri 🌌
 
 <p align="center">
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=se7enbyte&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=se7enbyte&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -54,17 +50,14 @@ $ whoami
 ## Araçlar 🔬
 
 <p align="center">
-  
-<img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,github,figma" />
 </p>
 
 ---
 
 <div align="center">
 
-> *"İnsan unsuru aslında güvenliğin en zayıf halkasıdır."*
-> <br>
-> -Kevin Mitnick
-
+> *"The human element is truly the weakest link in security."*  
+> **— Kevin Mitnick**
 
 </div>
