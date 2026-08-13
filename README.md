@@ -25,7 +25,7 @@ $ whoami
 7root
 
 • Reverse Engineering .NET & Native
-• Java, Ruby Development
+• Dart, Java, Ruby Development
 • Network Security
 • UI / UX Design
 ```
