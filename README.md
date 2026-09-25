@@ -1,7 +1,7 @@
 <div align="center">
 shit he's back
   
-# >_ se7enbyte
+# > se7enbyte_
 
 ### 🐧 System Architect • ⚙️ Reverser • 🛡️ Network Security
 
