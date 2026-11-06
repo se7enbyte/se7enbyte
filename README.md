@@ -35,7 +35,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,ruby,firebase" alt="Flutter, Dart, Java, Ruby ve Firebase" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=arch,linux,docker,git,github,vscode,idea,visualstudio" alt="Arch Linux, Linux, Docker, Git, GitHub, VS Code, IntelliJ IDEA ve Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=arch" alt="linux,docker,git,github,vscode,idea,visualstudio" alt="Arch Linux, Linux, Docker, Git, GitHub, VS Code, IntelliJ IDEA ve Visual Studio" />
   <br /><br />
   <img src="https://img.shields.io/badge/ArtCraft-8B5CF6?style=for-the-badge" height="28" alt="ArtCraft" />
   <img src="https://img.shields.io/badge/PhotoCraft-0891B2?style=for-the-badge" height="28" alt="PhotoCraft" />
