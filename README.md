@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/se7enbyte">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2800&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=45&amp;lines=shit%2C+he%27s+back.;Reverse+engineering+%C2%B7+.NET+%26+Native;Dart+%C2%B7+Java+%C2%B7+Ruby;Linux+is+home.+Curiosity+is+the+root." width="640" alt="shit, he's back. / Reverse engineering · .NET &amp; Native / Dart · Java · Ruby / Linux is home. Curiosity is the root." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=2800&amp;pause=1200&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=640&amp;height=45&amp;lines=shit%2C+he%27s+back.;Reverse+engineering+%C2%B7+.NET+%26+Native;Dart+%C2%B7+Java+%C2%B7+Ruby;I+use+Arch%2C+btw." width="640" alt="shit, he's back. / Reverse engineering · .NET &amp; Native / Dart · Java · Ruby / I use Arch, btw." />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 <p align="center">
   <samp>
-    Linux / Unix &nbsp;·&nbsp; System Architecture &nbsp;·&nbsp; Big Data
+    Arch Linux / Unix &nbsp;·&nbsp; System Architecture &nbsp;·&nbsp; Big Data
     <br />
     .NET &amp; Native &nbsp;·&nbsp; Mobile Development &nbsp;·&nbsp; UI / UX
   </samp>
@@ -35,9 +35,12 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,ruby,firebase" alt="Flutter, Dart, Java, Ruby ve Firebase" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=linux,mint,docker,git,github,vscode,idea,visualstudio" alt="Linux, Linux Mint, Docker, Git, GitHub, VS Code, IntelliJ IDEA ve Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=arch,linux,docker,git,github,vscode,idea,visualstudio" alt="Arch Linux, Linux, Docker, Git, GitHub, VS Code, IntelliJ IDEA ve Visual Studio" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=figma,ps,ae,pr" alt="Figma, Photoshop, After Effects ve Premiere Pro" />
+  <img src="https://img.shields.io/badge/ArtCraft-8B5CF6?style=for-the-badge" height="28" alt="ArtCraft" />
+  <img src="https://img.shields.io/badge/PhotoCraft-0891B2?style=for-the-badge" height="28" alt="PhotoCraft" />
+  <img src="https://img.shields.io/badge/FilmCraft-DB2777?style=for-the-badge" height="28" alt="FilmCraft" />
+  <img src="https://img.shields.io/badge/MotionCraft-7C3AED?style=for-the-badge" height="28" alt="MotionCraft" />
 </p>
 
 <br />
